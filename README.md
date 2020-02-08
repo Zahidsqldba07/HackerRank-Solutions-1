@@ -5,10 +5,12 @@ My code from solutions of HackeRank tasks
 
 | Task | Solution |
 |---|---|
+| [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [set-intro.py](python/set-intro.py) |
 | [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [set-add.py](python/set-add.py) |
 | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [set-discard-remove-pop.py](python/set-discard-remove-pop.py) |
 | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [symmetric-difference.py](python/symmetric-difference.py) |
 | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [set-union.py](python/set-union.py) |
+| [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | [itertools-product.py](python/itertools-product.py) |
 
 ## Linux shell
 
