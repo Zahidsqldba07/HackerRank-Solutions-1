@@ -11,6 +11,13 @@ My code from solutions of HackeRank tasks
 | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [symmetric-difference.py](python/symmetric-difference.py) |
 | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [set-union.py](python/set-union.py) |
 | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | [itertools-product.py](python/itertools-product.py) |
+| [Recursion: Fibonacci Numbers](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem) | [fibonacci.py](python/fibonacci.py) | 
+| [Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem) | [binary-search-try.py](python/binary-search-try.py) |
+| [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem) | [height-binary-tree.py](python/height-binary-tree.py) |
+| [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem) | [luck-balance.py](python/luck-balance.py) |
+| [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | [strings-anagrams.py](python/strings-anagrams.py) |
+| [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [mark-toys.py](python/mark-toys.py) |
+| [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [sorting-bubble.py](python/sorting-bubble.py) |
 
 ## Linux shell
 
