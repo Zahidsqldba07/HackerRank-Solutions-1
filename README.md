@@ -18,6 +18,10 @@ My code from solutions of HackeRank tasks
 | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) | [strings-anagrams.py](python/strings-anagrams.py) |
 | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem) | [mark-toys.py](python/mark-toys.py) |
 | [Sorting: Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [sorting-bubble.py](python/sorting-bubble.py) |
+| [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) | [hastable-ransom-note.py](python/hastable-ransom-note.py) |
+| [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [two-strings.py](python/two-strings.py) |
+| [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [arrays-left-rotation.py](python/arrays-left-rotation.py) |
+| [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | [alternate-characters.py](python/alternate-characters.py) |
 
 ## Linux shell
 
