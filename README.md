@@ -22,6 +22,12 @@ My code from solutions of HackeRank tasks
 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) | [two-strings.py](python/two-strings.py) |
 | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [arrays-left-rotation.py](python/arrays-left-rotation.py) |
 | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | [alternate-characters.py](python/alternate-characters.py) |
+| [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [electronics-shop.py](python/electronics-shop.py) |
+| []() | [.py](python/.py) |
+| []() | [.py](python/.py) |
+| []() | [.py](python/.py) |
+
+https://www.hackerrank.com/submissions/all/page/6
 
 ## Linux shell
 
@@ -29,3 +35,13 @@ My code from solutions of HackeRank tasks
 |---|---|
 | [Head of a Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem) | [head-of-text1.sh](linux/head-of-text1.sh) |
 | [Head of a Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem) | [head-of-text2.sh](linux/head-of-text2.sh) |
+| [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem) | [more-on-conditionals.sh](linux/more-on-conditionals.sh) |
+| [Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem) | [getting-started-with-conditionals.sh](linux/getting-started-with-conditionals.sh) |
+| [Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem) | [comparing-numbers.sh](linux/comparing-numbers.sh) |
+| [A Personalized Echo](https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/problem) | [personalized-echo.sh](linux/personalized-echo.sh) |
+| [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) | [looping-with-numbers.sh](linux/looping-with-numbers.sh) |
+| [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem) | [the-world-of-numbers.sh](linux/the-world-of-numbers.sh) |
+| [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/submissions/code/122851762) | [arithmetic-operations.sh](linux/arithmetic-operations.sh) |
+| []() | [.sh](linux/.sh) |
+| []() | [.sh](linux/.sh) |
+| []() | [.sh](linux/.sh) |
