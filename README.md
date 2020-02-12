@@ -47,9 +47,35 @@ My code from solutions of HackeRank tasks
 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | [minimum-absolute-difference-in-an-array.py](python/minimum-absolute-difference-in-an-array.py) |
 | [Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem) | [friend-circle-queries.py](python/friend-circle-queries.py) |
 | [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem) | [ctci-big-o.py](python/ctci-big-o.py) |
-| []() | [.py](python/.py) |
-
-https://www.hackerrank.com/submissions/all/page/14
+| [Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem) | [flipping-bits.py](python/flipping-bits.py) |
+| [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem) | [epeated-string.py](python/epeated-string.py) |
+| [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | [jumping-on-the-clouds.py](python/jumping-on-the-clouds.py) |
+| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem) | [counting-valleys.py](python/counting-valleys.py) |
+| [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | [sock-merchant.py](python/sock-merchant.py) |
+| [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [capitalize.py](python/capitalize.py) |
+| [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [alphabet-rangoli.py](python/alphabet-rangoli.py) |
+| [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [string-formatting.py](python/string-formatting.py) |
+| [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [designer-door-mat.py](python/designer-door-mat.py) |
+| [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [text-wrap.py](python/text-wrap.py) |
+| [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [text-alignment.py](python/text-alignment.py) |
+| [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [string-validators.py](python/string-validators.py) |
+| [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [find-a-string.py](python/find-a-string.py) |
+| [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [python-mutations.py](python/python-mutations.py) |
+| [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [whats-your-name.py](python/whats-your-name.py) |
+| [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [python-string-split-and-join.py](python/python-string-split-and-join.py) |
+| [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [swap-case.py](python/swap-case.py) |
+| [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [validate-list-of-email-address-with-filter.py](python/validate-list-of-email-address-with-filter.py) |
+| [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [python-tuples.py](python/python-tuples.py) |
+| [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [python-lists.py](python/python-lists.py) |
+| [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [finding-the-percentage.py](python/finding-the-percentage.py) |
+| [Nested lists](https://www.hackerrank.com/challenges/nested-list/problem) | [nested-list.py](python/nested-list.py) |
+| [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [find-second-maximum-number-in-a-list.py](python/find-second-maximum-number-in-a-list.py) |
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [list-comprehensions.py](python/list-comprehensions.py) |
+| [Print Function](https://www.hackerrank.com/challenges/python-print/problem) | [python-print.py](python/python-print.py) |
+| [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [write-a-function.py](python/write-a-function.py) |
+| [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [python-loops.py](python/python-loops.py) |
+| [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [python-division.py](python/python-division.py) |
+| [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [python-arithmetic-operators.py](python/python-arithmetic-operators.py) |
 
 ## 30 Days of Code
 
