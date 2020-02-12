@@ -23,11 +23,58 @@ My code from solutions of HackeRank tasks
 | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) | [arrays-left-rotation.py](python/arrays-left-rotation.py) |
 | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem) | [alternate-characters.py](python/alternate-characters.py) |
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem) | [electronics-shop.py](python/electronics-shop.py) |
-| []() | [.py](python/.py) |
-| []() | [.py](python/.py) |
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [birthday-cake-candles.py](python/birthday-cake-candles.py) |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [ime-conversion.py](python/time-conversion.py) |
+| [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [grading.py](python/grading.py) |
+| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [apple-and-orange.py](python/apple-and-orange.py) |
+| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | [kangaroo.py](python/kangaroo.py) |
+| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [between-two-sets.py](python/between-two-sets.py) |
+| [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [breaking-best-and-worst-records.py](python/breaking-best-and-worst-records.py) |
+| [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [birthday-bar.py](python/birthday-bar.py) |
+| [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [divisible-sum-pairs.py](python/divisible-sum-pairs.py) |
+| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratory-birds.py](python/migratory-birds.py) |
+| [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [day-of-the-programmer.py](python/day-of-the-programmer.py) |
+| [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem) | [bon-appetit.py](python/bon-appetit.py) |
+| [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) | [drawing-book.py](python/drawing-book.py) |
+| [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [mini-max-sum.py](python/mini-max-sum.py) |
+| [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [staircase.py](python/staircase.py) |
+| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [plus-minus.py](python/plus-minus.py) |
+| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [diagonal-difference.py](python/diagonal-difference.py) |
+| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [very-big-sum.py](python/very-big-sum.py) |
+| [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [compare-the-triplets.py](python/compare-the-triplets.py) |
+| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [simple-array-sum.py](python/simple-array-sum.py) |
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [solve-me-first.py](python/solve-me-first.py) |
+| [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) | [minimum-absolute-difference-in-an-array.py](python/minimum-absolute-difference-in-an-array.py) |
+| [Friend Circle Queries](https://www.hackerrank.com/challenges/friend-circle-queries/problem) | [friend-circle-queries.py](python/friend-circle-queries.py) |
+| [Time Complexity: Primality](https://www.hackerrank.com/challenges/ctci-big-o/problem) | [ctci-big-o.py](python/ctci-big-o.py) |
 | []() | [.py](python/.py) |
 
-https://www.hackerrank.com/submissions/all/page/6
+https://www.hackerrank.com/submissions/all/page/14
+
+## 30 Days of Code
+
+| Task | Solution |
+|---|---|
+| [Day 0]() | [day-0.py](python/day-0.py) |
+| [Day 1]() | [day-1.py](python/day-1.py) |
+| [Day 2]() | [day-2.py](python/day-2.py) |
+| [Day 3]() | [day-3.py](python/day-3.py) |
+| [Day 4]() | [day-4.py](python/day-4.py) |
+| [Day 5]() | [day-5.py](python/day-5.py) |
+| [Day 6]() | [day-6.py](python/day-6.py) |
+| [Day 7]() | [day-7.py](python/day-7.py) |
+| [Day 8]() | [day-8.py](python/day-8.py) |
+| [Day 9]() | [day-9.py](python/day-9.py) |
+| [Day 10]() | [day-10.py](python/day-10.py) |
+| [Day 11]() | [day-11.py](python/day-11.py) |
+| [Day 12]() | [day-12.py](python/day-12.py) |
+| [Day 13]() | [day-13.py](python/day-13.py) |
+| [Day 14]() | [day-14.py](python/day-14.py) |
+| [Day 15]() | [day-15.py](python/day-15.py) |
+| [Day 16]() | [day-16.py](python/day-16.py) |
+| [Day 17]() | [day-17.py](python/day-17.py) |
+| [Day 18]() | [day-18.py](python/day-18.py) |
+| [Day 19]() | [day-19.py](python/day-19.py) |
 
 ## Linux shell
 
@@ -42,6 +89,4 @@ https://www.hackerrank.com/submissions/all/page/6
 | [Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem) | [looping-with-numbers.sh](linux/looping-with-numbers.sh) |
 | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem) | [the-world-of-numbers.sh](linux/the-world-of-numbers.sh) |
 | [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/submissions/code/122851762) | [arithmetic-operations.sh](linux/arithmetic-operations.sh) |
-| []() | [.sh](linux/.sh) |
-| []() | [.sh](linux/.sh) |
-| []() | [.sh](linux/.sh) |
+| [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [looping-and-skipping.sh](linux/looping-and-skipping.sh) |
