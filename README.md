@@ -81,26 +81,26 @@ My code from solutions of HackeRank tasks
 
 | Task | Solution |
 |---|---|
-| [Day 0]() | [day-0.py](python/day-0.py) |
-| [Day 1]() | [day-1.py](python/day-1.py) |
-| [Day 2]() | [day-2.py](python/day-2.py) |
-| [Day 3]() | [day-3.py](python/day-3.py) |
-| [Day 4]() | [day-4.py](python/day-4.py) |
-| [Day 5]() | [day-5.py](python/day-5.py) |
-| [Day 6]() | [day-6.py](python/day-6.py) |
-| [Day 7]() | [day-7.py](python/day-7.py) |
-| [Day 8]() | [day-8.py](python/day-8.py) |
-| [Day 9]() | [day-9.py](python/day-9.py) |
-| [Day 10]() | [day-10.py](python/day-10.py) |
-| [Day 11]() | [day-11.py](python/day-11.py) |
-| [Day 12]() | [day-12.py](python/day-12.py) |
-| [Day 13]() | [day-13.py](python/day-13.py) |
-| [Day 14]() | [day-14.py](python/day-14.py) |
-| [Day 15]() | [day-15.py](python/day-15.py) |
-| [Day 16]() | [day-16.py](python/day-16.py) |
-| [Day 17]() | [day-17.py](python/day-17.py) |
-| [Day 18]() | [day-18.py](python/day-18.py) |
-| [Day 19]() | [day-19.py](python/day-19.py) |
+| [Day 0: Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [day-0.py](swift/day-0.swift) |
+| [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [day-1.py](cpp/day-1.cpp) |
+| [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [day-2.py](cpp/day-2.cpp) |
+| [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [day-3.py](python/day-3.py) |
+| [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [day-4.py](python/day-4.py) |
+| [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [day-5.py](python/day-5.py) |
+| [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [day-6.py](python/day-6.py) |
+| [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [day-7.py](python/day-7.py) |
+| [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [day-8.py](python/day-8.py) |
+| [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [day-9.py](python/day-9.py) |
+| [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [day-10.py](python/day-10.py) |
+| [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [day-11.py](python/day-11.py) |
+| [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [day-12.py](python/day-12.py) |
+| [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [day-13.py](python/day-13.py) |
+| [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [day-14.py](python/day-14.py) |
+| [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [day-15.py](python/day-15.py) |
+| [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [day-16.py](python/day-16.py) |
+| [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [day-17.py](python/day-17.py) |
+| [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [day-18.py](python/day-18.py) |
+| [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [day-19.py](python/day-19.py) |
 
 ## Linux shell
 
