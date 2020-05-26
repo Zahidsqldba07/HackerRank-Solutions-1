@@ -117,3 +117,5 @@ My code from solutions of HackeRank tasks
 | [The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem) | [the-world-of-numbers.sh](linux/the-world-of-numbers.sh) |
 | [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/submissions/code/122851762) | [arithmetic-operations.sh](linux/arithmetic-operations.sh) |
 | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [looping-and-skipping.sh](linux/looping-and-skipping.sh) |
+| [Tail # 1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [tail.sh](linux/tail.sh) |
+| [Tail # 2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [tail.sh](linux/tail.sh) |
