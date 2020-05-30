@@ -119,3 +119,4 @@ My code from solutions of HackeRank tasks
 | [Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem) | [looping-and-skipping.sh](linux/looping-and-skipping.sh) |
 | [Tail # 1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem) | [tail.sh](linux/tail.sh) |
 | [Tail # 2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem) | [tail.sh](linux/tail.sh) |
+| [Tr Command # 1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem) | [tr1.sh](linux/tr1.sh) |
