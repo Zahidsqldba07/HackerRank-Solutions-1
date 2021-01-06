@@ -103,6 +103,7 @@ My code from solutions of HackeRank tasks
 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [day-18.py](python/day-18.py) |
 | [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [day-19.py](python/day-19.py) |
 | [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [day-20.py](python/day-20.py) |
+| [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [day-21.java](java/day-21.java) |
 
 ## Linux shell
 
