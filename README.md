@@ -77,6 +77,7 @@ My code from solutions of HackeRank tasks
 | [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) | [python-division.py](python/python-division.py) |
 | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [python-arithmetic-operators.py](python/python-arithmetic-operators.py) |
 | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [check-subset.py](python/check-subset.py) |
+| [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [default-dict.py](python/default-dict.py) |
 
 ## 30 Days of Code
 
