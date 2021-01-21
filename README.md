@@ -106,6 +106,7 @@ My code from solutions of HackeRank tasks
 | [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [day-20.py](python/day-20.py) |
 | [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [day-21.java](java/day-21.java) |
 | [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [day-22.py](python/day-22.py) |
+| [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [day-23.py](python/day-23.py) |
 
 ## Linux shell
 
